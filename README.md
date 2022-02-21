@@ -37,6 +37,7 @@ Customer ID / Customers are displayed by ranking customers based on their RFM sc
 Net revenue calculated with the given formula 
 
 Net Revenue = Number of customers * Average Order Frequency * Average Order Value * Gross Margin %
+            
             = 550 * 22.241 * 11066.63 * 3
             = 406096195
 
