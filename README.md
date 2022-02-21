@@ -11,16 +11,19 @@ Final shape of the dataframe is 22633 rows * 22 columns
 # Apiriori Algorithm is used to derive insights from data by finding the confidence ,support and lift which is useful for market analysis
 Package used for Apirirori is mlxtend.frequent_patterns
    
-# Product Recommendation : Finding Antecedents and Consequents which are product recommendations used for cross selling based on confidence,support and lift 
+# Product Recommendation 
+Finding Antecedents and Consequents which are product recommendations used for cross selling based on confidence,support and lift 
 
-# Plots : Scatter plot used to evaluate Antecedent and Consequent and Pie Chart used for customer segmentation
+# Plots 
+Scatter plot to evaluate Antecedent and Consequent and Pie Chart for customer segmentation
    
-# Customer Retention,Classify Customers,Revenue Optimization : RFM analysis used to derive these metrics
+# Customer Retention,Classify Customers,Revenue Optimization 
+RFM analysis used
    
 # RFM analysis
-  Recency: How recently has the customer made a transaction with us
-  Frequency: How frequent is the customer in ordering/buying some product from us
-  Monetary: How much does the customer spend on purchasing products from us.
+Recency: How recently has the customer made a transaction with us
+Frequency: How frequent is the customer in ordering/buying some product from us
+Monetary: How much does the customer spend on purchasing products from us.
 
 Customer ID / Customers are displayed by ranking customers based on their RFM score
     
