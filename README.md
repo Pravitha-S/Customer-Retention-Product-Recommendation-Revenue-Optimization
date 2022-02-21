@@ -3,14 +3,16 @@ Apriori Algorithm and RFM analysis
 
 # REPORT 
 
-Kenya Customers | Kenya Deliveries | Kenya Orders | Nigeria Customers | Nigeria deliveries | Nigeria Orders datasets are merged into a single file 
-and uploaded as Merged File with 22633 rows * 42 columns .
+Kenya Customers | Kenya Deliveries | Kenya Orders | Nigeria Customers | Nigeria deliveries | Nigeria Orders datasets 
+are merged into a single file and uploaded as Merged File with 22633 rows * 42 columns .
 Dropped 20 columns with null values which does not contribute to the solution of this problem statement
+
 Final shape of the dataframe is 22633 rows * 22 columns
 
 # Apiriori Algorithm 
 
-used to derive insights from data by finding the confidence ,support and lift which is useful for market analysis
+used to derive insights from data by finding the confidence ,support and lift which is useful for market analysis.
+
 Package used for Apirirori is mlxtend.frequent_patterns
    
 # Product Recommendation 
