@@ -1,7 +1,7 @@
 # Customer-Retention-Product-Recommendation-Revenue-Optimization
 Apriori Algorithm and RFM analysis 
 
-##REPORT 
+**#REPORT **
 
 Kenya Customers | Kenya Deliveries | Kenya Orders | Nigeria Customers | Nigeria deliveries | Nigeria Orders datasets are merged into a single file 
 and uploaded as Merged File with 22633 rows * 42 columns .
