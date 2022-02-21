@@ -30,7 +30,9 @@ RFM analysis used
 # RFM analysis
 
 Recency: How recently has the customer made a transaction with us
+
 Frequency: How frequent is the customer in ordering/buying some product from us
+
 Monetary: How much does the customer spend on purchasing products from us.
 
 Customer ID / Customers are displayed by ranking customers based on their RFM score
